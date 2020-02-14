@@ -29,6 +29,15 @@ class ConfigurableAttributes
         'special_price',
         'special_to_date',
         'special_from_date',
+        'color',
+        'color_group',
+        'print',
+        'length',
+        'style',
+        'featured',
+        'available_sizes',
+        'media_gallery',
+        'label'
     ];
 
     /**
