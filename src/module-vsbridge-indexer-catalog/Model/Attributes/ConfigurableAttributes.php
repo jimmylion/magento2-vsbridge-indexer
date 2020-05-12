@@ -37,7 +37,8 @@ class ConfigurableAttributes
         'featured',
         'available_sizes',
         'media_gallery',
-        'label'
+        'label',
+        'age'
     ];
 
     /**
